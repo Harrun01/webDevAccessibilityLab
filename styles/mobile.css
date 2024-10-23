@@ -72,6 +72,6 @@ footer {
   text-align: center;
   font-style: italic;
 }
-#logo >a{
-color :#fff;
+#logo>h1>a{
+  color:#fff;
 }
